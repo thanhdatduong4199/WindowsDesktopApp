@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\DesktopApp\HelloWindowsDesktop.cpp">
+    <ClCompile Include="HelloWindowsApp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
