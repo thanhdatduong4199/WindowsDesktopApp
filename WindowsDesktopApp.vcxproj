@@ -21,6 +21,9 @@
   <ItemGroup>
     <ClCompile Include="HelloWindowsApp.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BaseWindow.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
